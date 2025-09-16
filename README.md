@@ -7,4 +7,4 @@ Setiap topik akan ditulis terpisah dalam file markdown agar mudah dipelajari dan
 
 ## 📑 Daftar Isi
 
-1. [Ancaman dan Serangan Siber](ancaman_dan_serangan_siber.md)
+1. [Ancaman dan Serangan Siber](./materi/ancaman_dan_serangan_siber.md)
